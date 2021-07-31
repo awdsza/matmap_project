@@ -15,9 +15,9 @@
 ## 2.사용기술
 
 `Front-end`
-- React
+- HTML5
 - CSS
-- Webpack
+- VanillaJS
 
 `Back-end`
 - MySQL
